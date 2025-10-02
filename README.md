@@ -4,7 +4,7 @@ The repository contains the code implementation of the paper:
 
 OCC-Mamba: A Mamba-based deep learning approach for indoor occupancy prediction
 
-<p align="center"> <img src="Figures/CoT_FewShot.jpg" alt="LLM Occupancy Framework" width="700"/> </p>
+<p align="center"> <img src="Figures/Method.jpg" alt="LLM Occupancy Framework" width="700"/> </p>
 
 This study proposes an LLM-based occupancy detection and estimation framework using few-shot learning, chain-of-thought, and in-context learning, demonstrating that models like Gemini-Pro and DeepSeek-R1 outperform traditional methods across diverse datasets from China and Singapore, offering robust and adaptable solutions for smart building management.
 
