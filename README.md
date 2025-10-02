@@ -84,7 +84,9 @@ If you have any further inquiries ‚ùì, don't hesitate to get in touch with us ü
 - Issues & Contributions: Please open a [GitHub Issue](https://github.com/irfanqaisar92/OCCMamba/issues) or a Pull Request.  
 
 ## Citation
-This paper is under review. The citation format is coming soon.
+This paper will be submitted for publication.  
+The official citation format will be provided once available.  
+
 
 ## Contact Us
 
