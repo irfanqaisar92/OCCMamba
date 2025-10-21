@@ -74,9 +74,6 @@ This repository contains the code implementation of the paper
 [_OCC-Mamba: A Lightweight and Robust Deep Learning Approach for Occupancy Prediction in Smart Buildings_](https://github.com/irfanqaisar92/OCCMamba),  
 developed using heterogeneous real-world datasets (Honeycomb, ROBOD, ASHRAE 10) and validated through EnergyPlus simulations for occupant-centric HVAC control.
 
-## Citation
-This paper is currently under review. The official citation format will be provided soon.  
-In the meantime, please cite this repository if you use the code or methodology in your work.
 
 ## Contact Us
 If you have any further inquiries ❓, don't hesitate to get in touch with us 👨‍💻👩‍💻  
